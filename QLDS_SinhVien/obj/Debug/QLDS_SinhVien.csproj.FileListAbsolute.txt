@@ -1,0 +1,7 @@
+D:\code\C#dotnet\QLDS_SinhVien\QLDS_SinhVien\bin\Debug\QLDS_SinhVien.exe.config
+D:\code\C#dotnet\QLDS_SinhVien\QLDS_SinhVien\bin\Debug\QLDS_SinhVien.exe
+D:\code\C#dotnet\QLDS_SinhVien\QLDS_SinhVien\bin\Debug\QLDS_SinhVien.pdb
+D:\code\C#dotnet\QLDS_SinhVien\QLDS_SinhVien\obj\Debug\QLDS_SinhVien.csproj.AssemblyReference.cache
+D:\code\C#dotnet\QLDS_SinhVien\QLDS_SinhVien\obj\Debug\QLDS_SinhVien.csproj.CoreCompileInputs.cache
+D:\code\C#dotnet\QLDS_SinhVien\QLDS_SinhVien\obj\Debug\QLDS_SinhVien.exe
+D:\code\C#dotnet\QLDS_SinhVien\QLDS_SinhVien\obj\Debug\QLDS_SinhVien.pdb
