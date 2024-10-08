@@ -1,0 +1,7 @@
+D:\code\C#dotnet\QuanLyPhuongTienGiaoThong\QuanLyPhuongTienGiaoThong\obj\Debug\QuanLyPhuongTienGiaoThong.csproj.AssemblyReference.cache
+D:\code\C#dotnet\QuanLyPhuongTienGiaoThong\QuanLyPhuongTienGiaoThong\obj\Debug\QuanLyPhuongTienGiaoThong.csproj.CoreCompileInputs.cache
+D:\code\C#dotnet\QuanLyPhuongTienGiaoThong\QuanLyPhuongTienGiaoThong\bin\Debug\QuanLyPhuongTienGiaoThong.exe.config
+D:\code\C#dotnet\QuanLyPhuongTienGiaoThong\QuanLyPhuongTienGiaoThong\bin\Debug\QuanLyPhuongTienGiaoThong.exe
+D:\code\C#dotnet\QuanLyPhuongTienGiaoThong\QuanLyPhuongTienGiaoThong\bin\Debug\QuanLyPhuongTienGiaoThong.pdb
+D:\code\C#dotnet\QuanLyPhuongTienGiaoThong\QuanLyPhuongTienGiaoThong\obj\Debug\QuanLyPhuongTienGiaoThong.exe
+D:\code\C#dotnet\QuanLyPhuongTienGiaoThong\QuanLyPhuongTienGiaoThong\obj\Debug\QuanLyPhuongTienGiaoThong.pdb
