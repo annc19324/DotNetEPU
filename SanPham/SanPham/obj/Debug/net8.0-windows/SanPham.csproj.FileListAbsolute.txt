@@ -1,0 +1,16 @@
+D:\code\C#dotnet\SanPham\SanPham\bin\Debug\net8.0-windows\SanPham.exe
+D:\code\C#dotnet\SanPham\SanPham\bin\Debug\net8.0-windows\SanPham.deps.json
+D:\code\C#dotnet\SanPham\SanPham\bin\Debug\net8.0-windows\SanPham.runtimeconfig.json
+D:\code\C#dotnet\SanPham\SanPham\bin\Debug\net8.0-windows\SanPham.dll
+D:\code\C#dotnet\SanPham\SanPham\bin\Debug\net8.0-windows\SanPham.pdb
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\SanPham.Form1.resources
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\SanPham.csproj.GenerateResource.cache
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\SanPham.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\SanPham.AssemblyInfoInputs.cache
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\SanPham.AssemblyInfo.cs
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\SanPham.csproj.CoreCompileInputs.cache
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\SanPham.dll
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\refint\SanPham.dll
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\SanPham.pdb
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\SanPham.genruntimeconfig.cache
+D:\code\C#dotnet\SanPham\SanPham\obj\Debug\net8.0-windows\ref\SanPham.dll
