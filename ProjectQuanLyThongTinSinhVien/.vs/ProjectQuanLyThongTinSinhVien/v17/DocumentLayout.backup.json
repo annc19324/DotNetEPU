@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|d:\\code\\c#dotnet\\projectquanlythongtinsinhvien\\projectquanlythongtinsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|solutionrelative:projectquanlythongtinsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|d:\\code\\c#dotnet\\projectquanlythongtinsinhvien\\projectquanlythongtinsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|solutionrelative:projectquanlythongtinsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|d:\\code\\c#dotnet\\projectquanlythongtinsinhvien\\projectquanlythongtinsinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|solutionrelative:projectquanlythongtinsinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|d:\\code\\c#dotnet\\projectquanlythongtinsinhvien\\projectquanlythongtinsinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|solutionrelative:projectquanlythongtinsinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|d:\\code\\c#dotnet\\projectquanlythongtinsinhvien\\projectquanlythongtinsinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D284C34C-BF28-438F-A6A3-B8BCD48E6827}|ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien.csproj|solutionrelative:projectquanlythongtinsinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectQuanLyThongTinSinhVien\\Program.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\Program.cs",
+              "RelativeToolTip": "ProjectQuanLyThongTinSinhVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:45:34.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLySinhVien.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "ProjectQuanLyThongTinSinhVien\\QuanLySinhVien.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\QuanLySinhVien.cs",
+              "RelativeToolTip": "ProjectQuanLyThongTinSinhVien\\QuanLySinhVien.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:09:09.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\SinhVien.cs",
+              "RelativeDocumentMoniker": "ProjectQuanLyThongTinSinhVien\\SinhVien.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\SinhVien.cs",
+              "RelativeToolTip": "ProjectQuanLyThongTinSinhVien\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:08:22.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectQuanLyThongTinSinhVien\\Form1.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\Form1.cs",
+              "RelativeToolTip": "ProjectQuanLyThongTinSinhVien\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwDwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:25:04.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectQuanLyThongTinSinhVien\\Form1.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\ProjectQuanLyThongTinSinhVien\\ProjectQuanLyThongTinSinhVien\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjectQuanLyThongTinSinhVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:19:36.141Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

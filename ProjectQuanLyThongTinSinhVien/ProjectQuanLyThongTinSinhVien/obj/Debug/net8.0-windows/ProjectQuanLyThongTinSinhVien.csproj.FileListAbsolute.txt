@@ -1,0 +1,17 @@
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\bin\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.exe
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\bin\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.deps.json
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\bin\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.runtimeconfig.json
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\bin\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.dll
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\bin\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.pdb
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.Form1.resources
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.csproj.GenerateResource.cache
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.AssemblyInfoInputs.cache
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.AssemblyInfo.cs
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.csproj.CoreCompileInputs.cache
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.dll
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\refint\ProjectQuanLyThongTinSinhVien.dll
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.pdb
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.genruntimeconfig.cache
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ref\ProjectQuanLyThongTinSinhVien.dll
+D:\code\C#dotnet\ProjectQuanLyThongTinSinhVien\ProjectQuanLyThongTinSinhVien\obj\Debug\net8.0-windows\ProjectQuanLyThongTinSinhVien.Properties.Resources.resources
