@@ -1,0 +1,16 @@
+D:\code\C#dotnet\FormSignUp\FormSignUp\bin\Debug\net8.0-windows\FormSignUp.exe
+D:\code\C#dotnet\FormSignUp\FormSignUp\bin\Debug\net8.0-windows\FormSignUp.deps.json
+D:\code\C#dotnet\FormSignUp\FormSignUp\bin\Debug\net8.0-windows\FormSignUp.runtimeconfig.json
+D:\code\C#dotnet\FormSignUp\FormSignUp\bin\Debug\net8.0-windows\FormSignUp.dll
+D:\code\C#dotnet\FormSignUp\FormSignUp\bin\Debug\net8.0-windows\FormSignUp.pdb
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\FormSignUp.Form1.resources
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\FormSignUp.csproj.GenerateResource.cache
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\FormSignUp.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\FormSignUp.AssemblyInfoInputs.cache
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\FormSignUp.AssemblyInfo.cs
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\FormSignUp.csproj.CoreCompileInputs.cache
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\FormSignUp.dll
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\refint\FormSignUp.dll
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\FormSignUp.pdb
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\FormSignUp.genruntimeconfig.cache
+D:\code\C#dotnet\FormSignUp\FormSignUp\obj\Debug\net8.0-windows\ref\FormSignUp.dll
