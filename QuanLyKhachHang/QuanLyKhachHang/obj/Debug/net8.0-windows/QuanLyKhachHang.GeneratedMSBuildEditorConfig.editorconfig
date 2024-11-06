@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QuanLyKhachHang
-build_property.ProjectDir = D:\code\C#dotnet\QuanLyKhachHang\QuanLyKhachHang\
+build_property.ProjectDir = C:\Users\annc1\OneDrive\Tài liệu\GitHub\DotNetEPU\QuanLyKhachHang\QuanLyKhachHang\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

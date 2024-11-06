@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\C#dotnet\\QuanLyKhachHang\\QuanLyKhachHang\\QuanLyKhachHang.csproj",
+      "projectUniqueName": "C:\\Users\\annc1\\OneDrive\\Tài liệu\\GitHub\\DotNetEPU\\QuanLyKhachHang\\QuanLyKhachHang\\QuanLyKhachHang.csproj",
       "projectName": "QuanLyKhachHang",
-      "projectPath": "D:\\code\\C#dotnet\\QuanLyKhachHang\\QuanLyKhachHang\\QuanLyKhachHang.csproj",
+      "projectPath": "C:\\Users\\annc1\\OneDrive\\Tài liệu\\GitHub\\DotNetEPU\\QuanLyKhachHang\\QuanLyKhachHang\\QuanLyKhachHang.csproj",
       "packagesPath": "C:\\Users\\annc1\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\C#dotnet\\QuanLyKhachHang\\QuanLyKhachHang\\obj\\",
+      "outputPath": "C:\\Users\\annc1\\OneDrive\\Tài liệu\\GitHub\\DotNetEPU\\QuanLyKhachHang\\QuanLyKhachHang\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\annc1\\AppData\\Roaming\\NuGet\\NuGet.Config",

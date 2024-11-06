@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\annc1\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\DotNetEPU\\QuanLyKhachHang\\",
+  "WorkspaceRootPath": "D:\\code\\C#dotnet\\QuanLyKhachHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EFA8FE2-8B2A-447E-95D5-946790B40175}|QuanLyKhachHang\\QuanLyKhachHang.csproj|c:\\users\\annc1\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\dotnetepu\\quanlykhachhang\\quanlykhachhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5EFA8FE2-8B2A-447E-95D5-946790B40175}|QuanLyKhachHang\\QuanLyKhachHang.csproj|d:\\code\\c#dotnet\\quanlykhachhang\\quanlykhachhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5EFA8FE2-8B2A-447E-95D5-946790B40175}|QuanLyKhachHang\\QuanLyKhachHang.csproj|solutionrelative:quanlykhachhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\annc1\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\DotNetEPU\\QuanLyKhachHang\\QuanLyKhachHang\\Form1.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\QuanLyKhachHang\\QuanLyKhachHang\\Form1.cs",
               "RelativeDocumentMoniker": "QuanLyKhachHang\\Form1.cs",
-              "ToolTip": "C:\\Users\\annc1\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\DotNetEPU\\QuanLyKhachHang\\QuanLyKhachHang\\Form1.cs [Design]",
+              "ToolTip": "D:\\code\\C#dotnet\\QuanLyKhachHang\\QuanLyKhachHang\\Form1.cs [Design]",
               "RelativeToolTip": "QuanLyKhachHang\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T13:13:56.347Z",
