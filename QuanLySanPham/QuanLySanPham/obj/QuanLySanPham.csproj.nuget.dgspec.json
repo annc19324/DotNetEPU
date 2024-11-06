@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\QuanLySanPham.csproj": {}
+    "C:\\Users\\annc1\\OneDrive\\Tài liệu\\GitHub\\DotNetEPU\\QuanLySanPham\\QuanLySanPham\\QuanLySanPham.csproj": {}
   },
   "projects": {
-    "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\QuanLySanPham.csproj": {
+    "C:\\Users\\annc1\\OneDrive\\Tài liệu\\GitHub\\DotNetEPU\\QuanLySanPham\\QuanLySanPham\\QuanLySanPham.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\QuanLySanPham.csproj",
+        "projectUniqueName": "C:\\Users\\annc1\\OneDrive\\Tài liệu\\GitHub\\DotNetEPU\\QuanLySanPham\\QuanLySanPham\\QuanLySanPham.csproj",
         "projectName": "QuanLySanPham",
-        "projectPath": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\QuanLySanPham.csproj",
+        "projectPath": "C:\\Users\\annc1\\OneDrive\\Tài liệu\\GitHub\\DotNetEPU\\QuanLySanPham\\QuanLySanPham\\QuanLySanPham.csproj",
         "packagesPath": "C:\\Users\\annc1\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\obj\\",
+        "outputPath": "C:\\Users\\annc1\\OneDrive\\Tài liệu\\GitHub\\DotNetEPU\\QuanLySanPham\\QuanLySanPham\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\annc1\\AppData\\Roaming\\NuGet\\NuGet.Config",
