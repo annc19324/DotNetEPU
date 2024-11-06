@@ -8,6 +8,11 @@ namespace QuanLyKhachHang
 {
     public class KhachHang
     {
+        public int MaKhachHang { get; set; }
+        public string TenKhachHang { get; set; }
+        public string SoDienThoai { get; set; }
+        public string DiaChi { get; set; }
+
         public KhachHang(int maKhachHang, string tenKhachHang, string soDienThoai, string diaChi)
         {
             MaKhachHang = maKhachHang;
@@ -15,11 +20,5 @@ namespace QuanLyKhachHang
             SoDienThoai = soDienThoai;
             DiaChi = diaChi;
         }
-
-        public int MaKhachHang {  get; set; }
-        public string TenKhachHang { get; set; }
-        public string SoDienThoai { get; set; }
-        public string DiaChi { get; set; }
-
     }
 }

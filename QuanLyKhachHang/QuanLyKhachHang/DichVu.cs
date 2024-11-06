@@ -9,8 +9,8 @@ namespace QuanLyKhachHang
     public class DichVu
     {
         public int MaDichVu { get; set; }      
-        public string TenDichVu { get; set; }    
-        public decimal GiaTien { get; set; }    
+        public string TenDichVu { get; set; }   
+        public decimal GiaTien { get; set; }     
 
         public DichVu(int maDichVu, string tenDichVu, decimal giaTien)
         {
@@ -20,3 +20,4 @@ namespace QuanLyKhachHang
         }
     }
 }
+
