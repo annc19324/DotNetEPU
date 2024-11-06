@@ -1,0 +1,16 @@
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\bin\Debug\net8.0-windows\SanPham_LamLai.exe
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\bin\Debug\net8.0-windows\SanPham_LamLai.deps.json
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\bin\Debug\net8.0-windows\SanPham_LamLai.runtimeconfig.json
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\bin\Debug\net8.0-windows\SanPham_LamLai.dll
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\bin\Debug\net8.0-windows\SanPham_LamLai.pdb
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\SanPham_LamLai.Form1.resources
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\SanPham_LamLai.csproj.GenerateResource.cache
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\SanPham_LamLai.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\SanPham_LamLai.AssemblyInfoInputs.cache
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\SanPham_LamLai.AssemblyInfo.cs
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\SanPham_LamLai.csproj.CoreCompileInputs.cache
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\SanPham_LamLai.dll
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\refint\SanPham_LamLai.dll
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\SanPham_LamLai.pdb
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\SanPham_LamLai.genruntimeconfig.cache
+D:\code\C#dotnet\SanPham_LamLai\SanPham_LamLai\obj\Debug\net8.0-windows\ref\SanPham_LamLai.dll
