@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C#dotnet\\QuanLySanPham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|D:\\code\\C#dotnet\\QuanLySanPham\\quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|d:\\code\\c#dotnet\\quanlysanpham\\quanlysanpham\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|d:\\code\\c#dotnet\\quanlysanpham\\quanlysanpham\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|d:\\code\\c#dotnet\\quanlysanpham\\quanlysanpham\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|d:\\code\\c#dotnet\\quanlysanpham\\quanlysanpham\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|d:\\code\\c#dotnet\\quanlysanpham\\quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\Form1.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs",
+              "RelativeToolTip": "QuanLySanPham\\Form1.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAADwv9gAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:07:30.353Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\ProductController.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\ProductController.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\ProductController.cs",
+              "RelativeToolTip": "QuanLySanPham\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:01:57.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Connect.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\Connect.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Connect.cs",
+              "RelativeToolTip": "QuanLySanPham\\Connect.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:50:01.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManagement.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\ProductManagement.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\ProductManagement.cs",
+              "RelativeToolTip": "QuanLySanPham\\ProductManagement.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:21:50.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Product.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\Product.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Product.cs",
+              "RelativeToolTip": "QuanLySanPham\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:14:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLySanPham\\Form1.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLySanPham\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:48:13.215Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
