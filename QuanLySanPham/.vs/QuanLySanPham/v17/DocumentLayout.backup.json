@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\code\\C#dotnet\\QuanLySanPham\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|D:\\code\\C#dotnet\\QuanLySanPham\\quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|d:\\code\\c#dotnet\\quanlysanpham\\quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BCB955F3-B92E-4A8A-AB6B-798EB6A03E4F}|QuanLySanPham\\QuanLySanPham.csproj|solutionrelative:quanlysanpham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -42,13 +42,17 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs",
               "RelativeDocumentMoniker": "QuanLySanPham\\Form1.cs",
-              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs",
-              "RelativeToolTip": "QuanLySanPham\\Form1.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs*",
+              "RelativeToolTip": "QuanLySanPham\\Form1.cs*",
               "ViewState": "AgIAANAAAAAAAAAAAADwv9gAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T08:07:30.353Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
@@ -60,12 +64,7 @@
               "RelativeToolTip": "QuanLySanPham\\ProductController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T12:01:57.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "WhenOpened": "2024-11-06T12:01:57.407Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "QuanLySanPham\\Connect.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:50:01.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T10:50:01.126Z"
             },
             {
               "$type": "Document",
@@ -90,8 +88,7 @@
               "RelativeToolTip": "QuanLySanPham\\ProductManagement.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T02:21:50.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T02:21:50.843Z"
             },
             {
               "$type": "Document",
@@ -103,8 +100,7 @@
               "RelativeToolTip": "QuanLySanPham\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T02:14:56.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T02:14:56.294Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs",
               "RelativeDocumentMoniker": "QuanLySanPham\\Form1.cs",
-              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs [Design]",
-              "RelativeToolTip": "QuanLySanPham\\Form1.cs [Design]",
+              "ToolTip": "D:\\code\\C#dotnet\\QuanLySanPham\\QuanLySanPham\\Form1.cs [Design]*",
+              "RelativeToolTip": "QuanLySanPham\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T01:48:13.215Z",
               "EditorCaption": " [Design]"
