@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|d:\\#groupproject\\lethienan.netmobileshop\\lethienan.netmobileshop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|solutionrelative:lethienan.netmobileshop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|d:\\#groupproject\\lethienan.netmobileshop\\lethienan.netmobileshop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|solutionrelative:lethienan.netmobileshop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|d:\\#groupproject\\lethienan.netmobileshop\\lethienan.netmobileshop\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|solutionrelative:lethienan.netmobileshop\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|d:\\#groupproject\\lethienan.netmobileshop\\lethienan.netmobileshop\\danhmuckhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|solutionrelative:lethienan.netmobileshop\\danhmuckhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|d:\\#groupproject\\lethienan.netmobileshop\\lethienan.netmobileshop\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BE0032-3EAB-4C7A-9C76-D2C76CF455BF}|LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop.csproj|solutionrelative:lethienan.netmobileshop\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\DonHang.cs",
+              "RelativeDocumentMoniker": "LeThienAn.NetMobileShop\\DonHang.cs",
+              "ToolTip": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\DonHang.cs",
+              "RelativeToolTip": "LeThienAn.NetMobileShop\\DonHang.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:12:22.566Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\FormMain.cs",
+              "RelativeDocumentMoniker": "LeThienAn.NetMobileShop\\FormMain.cs",
+              "ToolTip": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\FormMain.cs [Design]",
+              "RelativeToolTip": "LeThienAn.NetMobileShop\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:26:21.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\FormMain.cs",
+              "RelativeDocumentMoniker": "LeThienAn.NetMobileShop\\FormMain.cs",
+              "ToolTip": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\FormMain.cs",
+              "RelativeToolTip": "LeThienAn.NetMobileShop\\FormMain.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:26:18.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonHang.cs [Design]",
+              "DocumentMoniker": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\DonHang.cs",
+              "RelativeDocumentMoniker": "LeThienAn.NetMobileShop\\DonHang.cs",
+              "ToolTip": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\DonHang.cs [Design]",
+              "RelativeToolTip": "LeThienAn.NetMobileShop\\DonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:24:56.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhMucKhachHang.cs",
+              "DocumentMoniker": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\DanhMucKhachHang.cs",
+              "RelativeDocumentMoniker": "LeThienAn.NetMobileShop\\DanhMucKhachHang.cs",
+              "ToolTip": "D:\\#GroupProject\\LeThienAn.NetMobileShop\\LeThienAn.NetMobileShop\\DanhMucKhachHang.cs",
+              "RelativeToolTip": "LeThienAn.NetMobileShop\\DanhMucKhachHang.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA0wB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:23:53.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
